@@ -41,7 +41,7 @@ Graduated Fall 2019
 &nbsp;
 &nbsp;
 
-## Experience
+### Experience
 
 **Cybersecurity Researcher**
 
@@ -121,7 +121,7 @@ August 2017 - December 2018
 &nbsp;
 &nbsp;
 
-## Awards
+### Awards
 
 * [Award for Outstanding Undergraduate Research](images/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
 * [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx){:target="_blank"} - *Dakota State University/NSF, 2018-20*
@@ -129,7 +129,7 @@ August 2017 - December 2018
 &nbsp;
 &nbsp;
   
-## Clubs
+### Clubs
 
 I am the founder and previous President of Malwr Club (est. 2020-2022) @ Dakota State University. 
 
@@ -144,7 +144,7 @@ I also competed at ISEAGE, another CCDC sort of competition. I forget what place
 &nbsp;
 &nbsp;
 
-## Publications
+### Publications
 
 1. Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](docs/bust-a-binary.png)
 2. Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](docs/feature-extraction.png)
