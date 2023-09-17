@@ -20,15 +20,21 @@ See my publications for recent research or works. Currently, I'm considering my 
 
 ### Education
 
-:-- **PhD Cybersecurity** --: [Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
+**PhD Cybersecurity**
+
+[Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
 Fall 2021 - Current
-  
+
+&nbsp;
+
 **M.S. Computer Science**
 
 [Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
 Graduated Fall 2020
+
+&nbsp;
 
 **B.S. Cyber Operations**
 
@@ -47,6 +53,8 @@ Graduated Fall 2019
 
 July 2021 - Current
 
+&nbsp;
+
 
 **Cybersecurity Intern**
 
@@ -59,7 +67,8 @@ May 2020 - April 2021
 * Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis of malware and extracted firmware.
 * Remote/Telecommuted
 
-  
+&nbsp;
+
 **Cybersecurity Intern**
 
 [Northrop Grumman](https://www.northropgrumman.com/){:target="_blank"} - Cincinnati, OH
@@ -71,7 +80,8 @@ May 2019 - August 2019
 * Bootloader memory scraping and firmware disassembly with Ghidra/Radare2
 * Held an interim top-secret clearance
 
-  
+&nbsp;
+
 **Cybersecurity Analyst**
 
 [1st Financial Bank USA](https://www.1fbusa.com/fscm/){:target="_blank"} - Sioux Falls, SD
@@ -83,6 +93,7 @@ Februrary 2018 - May 2019
 * Incident Response/Policy Creation
 * Remote/Telecommuted
 
+&nbsp;
   
 **Volunteer TA**
 
@@ -92,6 +103,7 @@ January 2018 - Spring 2019
 
 * CSC-304 Assembly Language
 
+&nbsp;
   
 **Cyclops Student Researcher**
 
