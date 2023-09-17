@@ -149,8 +149,7 @@ I also competed at ISEAGE, another CCDC sort of competition. I forget what place
 
 1. Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](docs/bust-a-binary.png)
 2. Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](docs/feature-extraction.png)
-3. Flack, M; Foster, R: [*Clustering Analysis of Binaries Across Compiler Optimizations*](docs/intern-project-poster.png)
-4. Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](docs/final-draft.pdf)
+3. Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](docs/final-draft.pdf)
 
 &nbsp;
 &nbsp;
