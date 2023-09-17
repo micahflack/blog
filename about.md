@@ -20,9 +20,7 @@ See my publications for recent research or works. Currently, I'm considering my 
 
 ### Education
 
-**PhD Cybersecurity**
-
-[Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
+:-- **PhD Cybersecurity** --: [Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
 Fall 2021 - Current
   
