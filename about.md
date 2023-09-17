@@ -8,9 +8,15 @@ Hello! I am a Cybersecurity Researcher @ Idaho National Laboratory and ongoing d
 
 I have an orange tabby named, [Clover](images/clover.jpg). The #1 love of my life 🦁.
 
+&nbsp;
+&nbsp;
+
 ### Research Interest
 
 See my publications for recent research or works. Currently, I'm considering my doctoral thesis topic; which, is anywhere from hardware re and the development of purposfully vulnerable firmware for serial devices, to improved malware analysis methods via NLP models and intermediary language representation gathering.
+
+&nbsp;
+&nbsp;
 
 ### Education
 
@@ -19,9 +25,6 @@ See my publications for recent research or works. Currently, I'm considering my 
 [Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
 Fall 2021 - Current
-
-&nbsp;
-&nbsp;
   
 **M.S. Computer Science**
 
@@ -29,9 +32,6 @@ Fall 2021 - Current
 
 Graduated Fall 2020
 
-&nbsp;
-&nbsp;
-  
 **B.S. Cyber Operations**
 
 [Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
@@ -49,9 +49,7 @@ Graduated Fall 2019
 
 July 2021 - Current
 
-&nbsp;
-&nbsp;
-  
+
 **Cybersecurity Intern**
 
 [Idaho National Laboratory](https://inl.gov/){:target="_blank"} - Idaho Falls, ID
@@ -63,8 +61,6 @@ May 2020 - April 2021
 * Use of reverse engineering tools (IDA/Binary Ninja/Angr) for analysis of malware and extracted firmware.
 * Remote/Telecommuted
 
-&nbsp;
-&nbsp;
   
 **Cybersecurity Intern**
 
@@ -77,8 +73,6 @@ May 2019 - August 2019
 * Bootloader memory scraping and firmware disassembly with Ghidra/Radare2
 * Held an interim top-secret clearance
 
-&nbsp;
-&nbsp;
   
 **Cybersecurity Analyst**
 
@@ -91,8 +85,6 @@ Februrary 2018 - May 2019
 * Incident Response/Policy Creation
 * Remote/Telecommuted
 
-&nbsp;
-&nbsp;
   
 **Volunteer TA**
 
@@ -102,8 +94,6 @@ January 2018 - Spring 2019
 
 * CSC-304 Assembly Language
 
-&nbsp;
-&nbsp;
   
 **Cyclops Student Researcher**
 
@@ -123,8 +113,9 @@ August 2017 - December 2018
 
 ### Awards
 
-* [Award for Outstanding Undergraduate Research](images/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
-* [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx){:target="_blank"} - *Dakota State University/NSF, 2018-20*
+[Award for Outstanding Undergraduate Research](images/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
+
+[SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx){:target="_blank"} - *Dakota State University/NSF, 2018-20*
 
 &nbsp;
 &nbsp;
