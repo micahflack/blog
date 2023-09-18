@@ -20,7 +20,7 @@ See my publications for recent research or works. Currently, I'm considering my 
 
 ## Education
 
-**PhD Cybersecurity**
+**PhD Cyber Operations**
 
 [Dakota State University](https://www.dsu.edu/){:target="_blank"}, Madison, SD
 
