@@ -7,17 +7,18 @@ I've been having this issue with Debian/Ubuntu based distros lately. This is pro
 
 In my case, most of the VMWare applications have this problem when you use non-standard themes. Within Debian 12 KDE, I am using:
 
-* Breeze Dark (global theme)
+* Breeze Dark
     - global theme
     - plasma style
     - colors
-* Breeze (application style)
+* Breeze
+    - application style
     - window decorations
     - cursors
 * ePapirus-Dark
     - icons
 
-And this isn't the default configuration. It looks a lot better though. To fix it though, you need to add an environment variable to the application launcher. Either, by changing the .desktop file, or right clicking the app within the KDE launcher and choosing 'Edit Application'.
+And this isn't the default configuration. It looks a lot better though. To fix it you need to add an environment variable to the application launcher. Either, by changing the *.desktop file, or right clicking the app within the KDE launcher and choosing 'Edit Application'.
 
 Then, choose the tab 'Application' and add the following to the 'Environment Variables' field.
 
