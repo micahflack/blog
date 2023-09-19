@@ -22,7 +22,7 @@ And this isn't the default configuration. It looks a lot better though. To fix i
 
 Then, choose the tab 'Application' and add the following to the 'Environment Variables' field.
 
-[<img src="{{ site.baseurl }}/images/LinuxFonts/app_config.png" alt="Application Environment Vars" style="width: 400px;"/>]({{ site.baseurl }}/)
+![Application Settings Menu](/images/LinuxFonts/app_config.png)
 
 When you launch this application again it will use the default theme and all fonts/menus should be visible.
 
