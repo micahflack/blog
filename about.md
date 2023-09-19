@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am a Cybersecurity Researcher @ Idaho National Laboratory and ongoing doctoral candidate at Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly speaking - cars (e.g. my [2006 Suzuki Grand Vitara XSport](images/ABOUT/suzuki.jpg)).
+Hello! I am a Cybersecurity Researcher @ Idaho National Laboratory and ongoing doctoral candidate at Dakota State University. If you don't know me well, my main interests are malware analysis, reverse engineering, and - broadly speaking - cars (e.g. my [2006 Suzuki Grand Vitara XSport](/images/ABOUT/suzuki.jpg)).
 
-I have an orange tabby named, [Clover](images/ABOUT/clover.jpg). The #1 love of my life 🦁.
+I have an orange tabby named, [Clover](/images/ABOUT/clover.jpg). The #1 love of my life 🦁.
 
 &nbsp;
 &nbsp;
@@ -123,7 +123,7 @@ August 2017 - December 2018
 
 ## Awards
 
-[Award for Outstanding Undergraduate Research](images/ABOUT/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
+[Award for Outstanding Undergraduate Research](/images/ABOUT/SRI2019.jpg) - *South Dakota Student Research Poster Session, 2019*
 
 [SFS CyberCorps Scholarship](https://www.sfs.opm.gov/Overview-History.aspx){:target="_blank"} - *Dakota State University/NSF, 2018-20*
 
@@ -140,20 +140,20 @@ Some relevant links:
 * [Youtube](https://youtube.malwr.club){:target="_blank"}
 * [Google Drive](https://drive.malwr.club){:target="_blank"}
 
-And I participated as a member of [DefSec](https://defsec.club/){:target="_blank"} @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](images/ABOUT/cyberforce.jpg).
+And I participated as a member of [DefSec](https://defsec.club/){:target="_blank"} @ DSU as well. As a part of the team for 2018 DOE CyberForce Competition, we placed fourth out of 70 teams nation-wide. [Team Photo](/images/ABOUT/cyberforce.jpg).
 
-I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](images/ABOUT/ISEAGE.jpg).
+I also competed at ISEAGE, another CCDC sort of competition. I forget what place we took. [Team Photo](/images/ABOUT/ISEAGE.jpg).
 
 &nbsp;
 &nbsp;
 
 ## Publications
 
-Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](docs/bust-a-binary.png)
+Flack, M; Kramer, N; Snyder, Z; Chona, E; Steckelberg, M; and Brizendine, B: [*Bust-A-Binary: Active Attribution and Analysis of Malware Campaigns*](/docs/bust-a-binary.png)
 
-Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](docs/feature-extraction.png)
+Flack, M; Brizendine, B: [*Feature Extraction and Analysis of Binaries for Classification*](/docs/feature-extraction.png)
 
-Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](docs/final-draft.pdf)
+Flack, M; Foster, R; Xu, S: [*Graph Convolutional Network for Classifying Binaries with Control Flow Graph Data*](/docs/final-draft.pdf)
 
 &nbsp;
 &nbsp;
