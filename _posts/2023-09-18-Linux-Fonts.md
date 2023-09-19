@@ -3,7 +3,7 @@ layout: post
 title: Unreadable Linux Fonts
 ---
 
-I've been having this issue with Debian/Ubuntu based distros lately. This is probably specific to my specific version, Debain 12 KDE, but it is worth sharing. If you have unreadable font, like grey font on a white background, it's because the application you are running does not adhere to the system theme settings.
+I've been having this issue with Debian/Ubuntu based distros lately. This is probably specific to my flavor, Debain 12 KDE, but it is worth sharing. If you have unreadable font, like grey font on a white background, it's because the application you are running does not adhere to the system theme settings.
 
 In my case, most of the VMWare applications have this problem when you use non-standard themes. Within Debian 12 KDE, I am using:
 
