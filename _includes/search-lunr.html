@@ -40,15 +40,16 @@ function lunr_search(term) {
             //if results
             for (var i = 0; i < results.length; i++) {
 
-                if(url == "http://micahflack.com/") {
-                    continue;
-                }
-
                 // more statements
                 var ref = results[i]['ref'];
                 var url = documents[ref]['url'];
                 var title = documents[ref]['title'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
+
+                if(url == "http://micahflack.com/") {
+                    continue;
+                }
+
                 document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
             }
         } else {
