@@ -5,7 +5,7 @@ title: VMware Smartcard Support
 
 If you have had diffuculty getting the VMware Horizon Client to share access to your smartcards on Linux, there are few reasons why that might be happening.
 
-First off, we can check by referring to this knowledge base post from VMware for adding smartcard support to Ubuntu VMs - ["Set Up Smart Card Redirection on an Ubuntu/Debian Virtual Machine"](https://docs.vmware.com/en/VMware-Horizon/2306/linux-desktops-setup/GUID-FCF20C28-D384-4648-A20B-84144E119FED.html). The advice is the same for hosts. All you need to do is install these packages:
+First off, we can check by referring to this knowledge base post from VMware for adding smartcard support to Ubuntu VMs - [Set Up Smart Card Redirection on an Ubuntu/Debian Virtual Machine](https://docs.vmware.com/en/VMware-Horizon/2306/linux-desktops-setup/GUID-FCF20C28-D384-4648-A20B-84144E119FED.html). The advice is the same for hosts. All you need to do is install these packages:
 
     sudo apt-get install -y pcscd pcsc-tools pkg-config libpam-pkcs11 opensc libengine-pkcs11-openssl libnss3-tools
 
@@ -27,7 +27,7 @@ Start by removing the client:
 
 Then, navigate back to the VMware downloads page for the Horizon Client and make sure you download the ".bundle" installation.
 
-###### TRYING TO USE THE .DEB PACKAGE WILL NOT WORK
+### TRYING TO USE THE .DEB PACKAGE WILL NOT WORK
 
 Navigate to your downloads folder and make the bundle executable.
 
