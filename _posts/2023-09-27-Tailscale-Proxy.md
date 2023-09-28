@@ -5,7 +5,13 @@ title: Setup Tailscale for Proxy Use
 
 Sometimes you need to use Tailscale, but all traffic for the network you're on needs to passthrough a proxy. There is some conflicting information about this on the wiki and issues pages for Tailscale on Github. See this issue [#931](https://github.com/tailscale/tailscale/issues/931#issuecomment-728195103).
 
-This can be fixed by adding the following lines to `/etc/default/tailscaled`. IF this doesn't exist for you, check the systemd file at `/lib/systemd/system/tailscaled.service`.
+This can be fixed by adding the following lines to:
+
+`/etc/default/tailscaled`
+
+If this doesn't exist for you, check the systemd file at:
+
+`/lib/systemd/system/tailscaled.service`
 
     # Set the port to listen on for incoming VPN packets.
     # Remote nodes will automatically be informed about the new port number,
