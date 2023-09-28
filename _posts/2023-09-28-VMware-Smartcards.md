@@ -24,6 +24,7 @@ And, that should be all you need for the host to use smartcards. If you still ha
 Start by removing the client:
 
     sudo apt remove vmware-view
+    sudo apt remove vmware-horizon-client
 
 Then, navigate back to the VMware downloads page for the Horizon Client and make sure you download the ".bundle" installation.
 
