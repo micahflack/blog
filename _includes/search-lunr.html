@@ -28,6 +28,7 @@ var idx = lunr(function () {
         this.add(doc)
     }, this)
 });
+
 function lunr_search(term) {
     document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
     if(term) {
@@ -38,6 +39,11 @@ function lunr_search(term) {
             //console.log(idx.search(term));
             //if results
             for (var i = 0; i < results.length; i++) {
+
+                if(url = "http://micahflack.com/") {
+                    continue;
+                }
+
                 // more statements
                 var ref = results[i]['ref'];
                 var url = documents[ref]['url'];
