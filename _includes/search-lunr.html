@@ -46,7 +46,7 @@ function lunr_search(term) {
                 var title = documents[ref]['title'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
 
-                const ignoreStrings = ["http://micahflack.com/", "http://micahflack.com/style.css", ""];
+                const ignoreStrings = ["http://micahflack.com/", "http://micahflack.com/style.css", "http://micahflack.com/robots.txt", ""];
                 let ignoreStringsLen = ignoreStrings.length;
 
                 if (ignoreStrings.includes(url)) {
