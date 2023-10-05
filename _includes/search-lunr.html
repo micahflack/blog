@@ -46,11 +46,15 @@ function lunr_search(term) {
                 var title = documents[ref]['title'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
 
-                if(url == "http://micahflack.com/") {
+                const ignoreStrings = ["http://micahflack.com/", "http://micahflack.com/style.css", ""];
+                let ignoreStringsLen = ignoreStrings.length;
+
+                if (ignoreStrings.includes(url)) {
                     continue;
                 }
 
                 document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
+
             }
         } else {
             document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>No results found...</li>";
