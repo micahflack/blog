@@ -72,6 +72,7 @@ compromised device.
 
 Extra Sources:
 
--- [How to exploit any android device using msfvenom and Metasploit 
+- [How to exploit any android device using msfvenom and Metasploit 
 Framework](https://archanatulsiyani21.medium.com/how-to-exploit-any-android-device-using-msfvenom-and-metasploit-framework-9e90af4a4d7b)
--- [Embedding Meterpreter in Android APK](https://www.blackhillsinfosec.com/embedding-meterpreter-in-android-apk/)
+
+- [Embedding Meterpreter in Android APK](https://www.blackhillsinfosec.com/embedding-meterpreter-in-android-apk/)
