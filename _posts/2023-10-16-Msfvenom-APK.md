@@ -69,3 +69,9 @@ authenticate the ADB connection. The app can then be pushed with the following c
 Start the metasploit listener on the host. Once it is ready, launch the app from the compromised device and it should 
 connect immediately. If there are delays or issues getting the device to spawn a msf session, check your routing from the 
 compromised device.
+
+Extra Sources:
+
+-- [How to exploit any android device using msfvenom and Metasploit 
+Framework](https://archanatulsiyani21.medium.com/how-to-exploit-any-android-device-using-msfvenom-and-metasploit-framework-9e90af4a4d7b)
+-- [Embedding Meterpreter in Android APK](https://www.blackhillsinfosec.com/embedding-meterpreter-in-android-apk/)
