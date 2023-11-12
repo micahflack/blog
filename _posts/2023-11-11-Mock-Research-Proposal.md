@@ -11,10 +11,10 @@ Research proposal title:
 
 See the following links:
 
-- [Paper](https://raw.githubusercontent.com/micahflack/DSU/master/CSC807/Homework3/main.pdf)
-- [Slides](https://raw.githubusercontent.com/micahflack/DSU/master/CSC807/Homework3/Homework3-slides.pdf)
-- [Presentation](https://youtu.be/dG9xN_p8wAc)
-- [Class Git Repo](https://github.com/micahflack/DSU/tree/master)
+- [Paper](https://raw.githubusercontent.com/micahflack/DSU/master/CSC807/Homework3/main.pdf){:target="_blank"}
+- [Slides](https://raw.githubusercontent.com/micahflack/DSU/master/CSC807/Homework3/Homework3-slides.pdf){:target="_blank"}
+- [Presentation](https://youtu.be/dG9xN_p8wAc){:target="_blank"}
+- [Class Git Repo](https://github.com/micahflack/DSU/tree/master){:target="_blank"}
 
 If you are curious about learning how to use Latex, it was a requirement for this assignment. My feelings about the tool is mixed. Obviously, if you compare it to something like Google Docs or MS Word, there are bound to be some growing pains. But it does make the overall theme and structure of your papers more consistent.
 
