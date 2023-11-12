@@ -5,6 +5,10 @@ title: Mock Research Proposal
 
 I recently finished my mock research proposal for one of my classes this semester, Computer and Cyber Science Research Design and Implementation (CSC-807-DT1). The goal of this assignment was to familiarize ourselves with the research process, and proposals, and to solidify any ideas for our dissertations; which, is ultimately the goal of the program. Despite this experience, I am no more or less of a writing fan than I was before.
 
+Research proposal title:
+
+- PrintShop: Assessing OS and Capabilities of Serial Print Devices
+
 See the following links:
 
 - [Paper](https://raw.githubusercontent.com/micahflack/DSU/master/CSC807/Homework3/main.pdf)
