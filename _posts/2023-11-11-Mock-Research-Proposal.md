@@ -18,7 +18,13 @@ See the following links:
 
 If you are curious about learning how to use Latex, it was a requirement for this assignment. My feelings about the tool is mixed. Obviously, if you compare it to something like Google Docs or MS Word, there are bound to be some growing pains. But it does make the overall theme and structure of your papers more consistent.
 
-The best thing about Latex is probably how it handles your references, figures, and any tables you have created. Typically, when you create a figure or a table you will attach a label to it. With this label you can use the following tag anywhere to reference it and Latex will handle the formatting and naming of what goes there. For instance, if you wanted to reference some table you made and it was called, "table:cool_devices". You would use the following tag to reference it, " Table \ref:{table:cool_devices}". When the paper is generated/built, it will place the actual table number instead - "Table 1.1"; the example assumes table:cool_devices is the first table of chapter 1.
+The best thing about Latex is probably how it handles your references, figures, and any tables you have created. Typically, when you create a figure or a table you will attach a label to it. With this label you can use the following tag anywhere to reference it and Latex will handle the formatting and naming of what goes there. For instance, if you wanted to reference some table you made and it was called, "table:cool_devices".
+
+You would use the following tag to reference it:
+
+	Table \ref:{table:cool_devices}
+
+When the paper is generated/built, it will place the actual table number instead - "Table 1.1"; the example assumes it is the first table of chapter 1.
 
 If you want to use Latex offline, and not something like Overleaf, this is what I used:
 
