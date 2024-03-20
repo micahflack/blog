@@ -26,6 +26,10 @@ If you are in the beginning stages of writing your own dissertation proposal, or
 
 I've talked to other students (now PhDs) who eventually had issues getting Overfleaf to fully build their PDFs at higher page ranges. Of course, you could pay for the premium version, which would fix the issue. But there are other options, so, you don't need to feel like you have to use Overleaf.
 
+To get the Zotero manager to work with VSCode, you will probably need to follow this guide to be able to link all of the information together; the site is missing and only accessible via the Internet Archive.
+
+* [A Nerd’s Guide to writing Papers for Aarhus University](https://web.archive.org/web/20200924185154/https://martinandreasandersen.com/guides/a-nerds-guide-to-writing-papers-for-au/){:target="_blank"}
+
 If you are interested in working on hardware reverse engineering projects, I also recommend these resources:
 
 * The Hardware Hacking Handbook, ISBN-13: 9781593278748
