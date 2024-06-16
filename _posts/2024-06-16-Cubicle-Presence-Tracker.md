@@ -109,3 +109,33 @@ This is how the monitor should look when mounted:
 
 ![Picture of Monitor Mounted to Cubicle Wall](/images/CubicleTracker/IMG20240611094418.jpg)
 
+To send updates to Android, I recommend using Tasker or some kind of equivalent automation application.
+
+Here is a list of the automations that I am currently running for this tracker board:
+
+![Picture of Tasker Automations](/images/CubicleTracker/TaskerList.jpg)
+
+Each of the tasks follows a similar recipe:
+
+![Picture of Task Actions](/images/CubicleTracker/TaskActions.jpg)
+
+When the location is triggered (being within 30m of the building), it will update the NTFYLocation variable with the appropriate text and then fire off the HTTP request action.
+
+The options used for the HTTP request are as follows:
+
+![Picture of Task Request Options](/images/CubicleTracker/TaskActions.jpg)
+
+For anyone using the public NTFY.sh service, those variables would look like this:
+- `%NTFYServer`: https://ntfy.sh/
+- `%NTFYTopic`: YOUR_SECRET_TOPIC
+
+If you are gonna use the public NTFY servers, the creator recommends using a secret topic that anyone would have a hard time guessing. These servers do not utilize the ACL permission feature, whereas, a self-hosted server could.
+
+I would use the password generator of your password manager to create a topic and be careful not to publicize it.
+
+Some examples using Bitwarden (I am not using these, and you shouldn't either):
+- PhV4SnP4uMEQQMdjuBsJs3xcaRzukP8BXbK4652LVGrLd8MbNoXv3rLzGBxdxQE2 (alphanumeric)
+- szYwkkzSzpHRKcmTVnpbAJDBXjUynPpMDAbLJiLUGHEzYcvRQJkzyYpCoTNyxgtM (alphabet only)
+- xpiybsdkhkpzhyxwuhuozzdnjuwfxyeqeqpkexestufocxrkyqqwzobiobockdys (lowercase only)
+
+Topics have a max length of 64 bytes. I believe the data encoding used for topics affects this too. So, if you're using topics with characters not limited to a-zA-Z0-9, you could exceed 1 byte per character and experience issues.
