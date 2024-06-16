@@ -123,7 +123,7 @@ When the location is triggered (being within 30m of the building), it will updat
 
 The options used for the HTTP request are as follows:
 
-![Picture of Task Request Options](/images/CubicleTracker/TaskActions.jpg)
+![Picture of Task Request Options](/images/CubicleTracker/RequestOpt.jpg)
 
 For anyone using the public NTFY.sh service, those variables would look like this:
 - `%NTFYServer`: https://ntfy.sh/
