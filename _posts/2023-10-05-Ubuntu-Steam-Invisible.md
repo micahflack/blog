@@ -3,7 +3,7 @@ layout: post
 title: Steam Invisible on Ubuntu?
 ---
 
-For awhile I've been running a valheim server for my friends and I using a docker container. This doesn't really work well though if you plan on adding mods to the server outside of just BepInEx and ValheimPlus. So, I tried making the shift to an Ubuntu desktop server instead.
+For awhile I've been running a valheim server for my friends and I was using a docker container. This doesn't really work well though if you plan on adding mods to the server outside of just BepInEx and ValheimPlus. So, I tried making the shift to an Ubuntu desktop server instead.
 
 Normally, this would be a pretty smooth process - but, I ran into an error I haven't seen before with Steam and Linux. After installing the steam-installer package through apt, as well as the official .deb package from the Steam site, the main window would appear invisible at boot. For reference, I ran into this problem on Ubuntu 20.04.6 LTS and Steam version 1696019606.
 
