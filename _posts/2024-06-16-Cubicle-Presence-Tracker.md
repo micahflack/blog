@@ -92,7 +92,11 @@ Chromium Browser
 chromium-browser --app=http://0.0.0.0:8888/
 ```
 
-To make this truly cubicle compatible, I have some 3D printable adapters that can be used w/ VESA 75x75 equipped monitors. I have not tested the load capacity of these adapters, so, PLEASE do not use this with anything other than the recommended monitor. When attaching the monitor mount, I used a TV/monitor mounting kit from Home Depot. Any flat head bolt that fits the VESA specification should be compatible with the adapter plate.
+To make this truly cubicle compatible, I have some 3D printable adapters that can be used with VESA 75x75 equipped monitors.
+
+I have not tested the load capacity of these adapters, so, PLEASE do not use this with anything other than the recommended monitor.
+
+When attaching the monitor mount, I used a TV/monitor mounting kit from Home Depot. Any flat head bolt that fits the VESA specification should be compatible with the adapter plate.
 
 ###### NOTE: the hanger is limited to 3.5" thick cubicle walls - measure yours first
 
