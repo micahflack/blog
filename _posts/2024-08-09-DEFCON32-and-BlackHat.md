@@ -116,4 +116,4 @@ Also, FYI - these events are not for the walking faint of feet. I walked about ~
 
 Images from the trip:
 
-{% include image-gallery.html folder="/images/DEFCON32/carousel" %}
+{% include image-gallery-hidden.html folder="/images/DEFCON32/carousel" %}
