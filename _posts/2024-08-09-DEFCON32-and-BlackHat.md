@@ -4,8 +4,7 @@ title: DEFCON 32 and BlackHat
 
 carousels:
   - images: 
-    - image: /images/DEFCON32/bobamenu_1.jpg
-    - image: /images/DEFCON32/bobamenu_2.jpg
+    - image: /images/DEFCON32/carousel
 ---
 
 [DEFCON 32 Schedule/Links](https://defcon.outel.org/dcwp/dc32/)
