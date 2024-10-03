@@ -1,10 +1,6 @@
 ---
 layout: post
 title: DEFCON 32 and BlackHat
-
-carousels:
-  - images: 
-    - image: /images/DEFCON32/carousel/
 ---
 
 [DEFCON 32 Schedule/Links](https://defcon.outel.org/dcwp/dc32/)
@@ -120,4 +116,4 @@ Also, FYI - these events are not for the walking faint of feet. I walked about ~
 
 Images from the trip:
 
-{% include carousel.html height="100" unit="%" duration="7" number="1" %}
+{% include image-gallery.html folder="/images/DEFCON32/carousel" %}
