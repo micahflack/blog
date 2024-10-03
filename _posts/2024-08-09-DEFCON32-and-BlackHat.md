@@ -120,4 +120,4 @@ Also, FYI - these events are not for the walking faint of feet. I walked about ~
 
 Images from the trip:
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="100" unit="%" duration="7" number="1" %}
