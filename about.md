@@ -78,7 +78,6 @@ May 2019 - August 2019
 * Vulnerability research
 * Hardware hacking over serial debug ports (JTAG/UART) with Shikra
 * Bootloader memory scraping and firmware disassembly with Ghidra/Radare2
-* Held an interim clearance
 
 &nbsp;
 
