@@ -11,7 +11,7 @@ It used to be that the Timeline was accessible from... http://timeline.google.co
 
 But, that was disabled earlier this year too. Now where does that leave us and what alternatives are available? From what I've gathered, these are the best self-hosted options:
 
-- [Dawarich](https://dawarich.app/)
+- [Dawarich](https://dawarich.app/) (Server)
 
 - [OwnTracks](https://owntracks.org/) (Client/Server)
 
