@@ -80,12 +80,11 @@ condition: []
 action:
   - action: shell_command.phonetrack_curl
     data_template:
-      args: >-
-        {{ states('sensor.opo_latitude') }} {{ states('sensor.opo_longitude') }}
+      args: "{{ states('sensor.opo_latitude') }} {{ states('sensor.opo_longitude') }}
         {{ states('sensor.opo_altitude') }} {{ states('sensor.opo_accuracy') }}
-        {{ states('sensor.oneplus_open_battery_level') }} 0 {{
-        states('sensor.opo_speed') }} {{ states('sensor.opo_course') }} {{
-        now().timestamp() }}
+        {{ states('sensor.oneplus_open_battery_level') }} 0
+        {{states('sensor.opo_speed') }} {{ states('sensor.opo_course') }}
+        {{now().timestamp() }}"
 mode: single
 ```
 
