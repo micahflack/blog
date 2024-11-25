@@ -140,7 +140,7 @@ All of the HA automations needed to replace Tasker are as such:
 
 - [Location] Update NTFY Cubicle Tracker
 
-The “[Location]” part of the name is a sort of tagging system that I used to organize my automations by name. It just helps make it easier to scroll through the view in alphabetic view and find what I need - so, name it whatever you want, it isn't important.
+The “[Location]” part of the name is a sort of tagging system that I used to organize my automations by name. It just helps make it easier to scroll through in alphabetic view and find what I need - so, name it whatever you want, it isn't important.
 
 ### [Location] Entering Work Zone
 
