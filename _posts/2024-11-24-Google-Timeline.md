@@ -3,6 +3,8 @@ layout: post
 title: Google Timeline Alternatives and Tracker Updates
 ---
 
+{% raw %}
+
 Despite the privacy concerns that come with Google Timeline, I personally like the tool because of how easy it is to see where I've been through time and what I was doing. It's like a passive journal that I don't need to commit to updating every day. However, that will be going away completely as of December 1st, 2024: [Google Maps Timeline now stores your location data on-device](https://www.androidpolice.com/google-maps-timeline-location-data-on-device-migration/).
 
 It used to be that the Timeline was accessible from... http://timeline.google.com/
@@ -311,3 +313,7 @@ MESSAGE="$2 $3"
 
 /usr/bin/curl -d "$MESSAGE" "https://ntfy.YOUR_DOMAIN.com/$TOPIC"
 ```
+
+Hopefully this was interesting or helpful to you!
+
+{% endraw %}
